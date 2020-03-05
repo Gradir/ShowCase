@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f8f8f9249a04e1443a6b4a1700ce3b64, type: 3}
+  m_Name: Audio Database
+  m_EditorClassIdentifier: 
+  playerHitSounds:
+  - {fileID: 8300000, guid: dfe18703b670ca344831ceb2d58cf7d9, type: 3}
+  - {fileID: 8300000, guid: 2257dfa51f8e673468e3de7df9a5538f, type: 3}
+  - {fileID: 8300000, guid: bd5b08a08e970874aa8c52e7a7ae8ee5, type: 3}
+  - {fileID: 8300000, guid: aa695ce362ee4cd41b601e3b9ecd0b55, type: 3}
+  - {fileID: 8300000, guid: d504f0e77aa7aa647a3092782c0480b2, type: 3}
+  - {fileID: 8300000, guid: 5780ee2cc51dd7548b42a83afae7ba33, type: 3}
+  - {fileID: 8300000, guid: aac1fc3690fd4504a96288cb6fb5607d, type: 3}
+  - {fileID: 8300000, guid: 28ba2acc2c212fa4dab35593bb897854, type: 3}
+  - {fileID: 8300000, guid: b34413241c0451645b39c8a1d6d7461e, type: 3}
+  powerUpJump:
+  - {fileID: 8300000, guid: 87d9eefc19026224caafc5893243692c, type: 3}
+  powerUpSprint:
+  - {fileID: 8300000, guid: 3a5bf0f6293919e4f89e5e8010f8c35d, type: 3}
